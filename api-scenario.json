@@ -6,14 +6,14 @@
             "bin": [
                 "api-scenario.exe"
             ],
-            "hash": "869cbc09c39fad6c889b7cecc5de07f0bb830fffc0aa4cf5f5dd1269e0adc230"
+            "hash": "3d5266ef27b083f348386bd962f58a25136c75fb6c6baa18832c8faeada21d54"
         },
         "64bit": {
             "url": "http://github.com/thomaspoignant/api-scenario/releases/v0.0.1/api-scenario_0.0.1_Windows_x86_64.tar.gz",
             "bin": [
                 "api-scenario.exe"
             ],
-            "hash": "7875c8072d0fba0b9fe6a19dbb976ac68453153a5dc8974c04c1f3f90c102952"
+            "hash": "73166ea51fdfec0d98d6757c1afd72c52a98adf38c56dddfd6db6ec24e0398da"
         }
     },
     "homepage": "https://github.com/thomaspoignant/api-scenario#api-scenario",
