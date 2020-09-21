@@ -1,0 +1,22 @@
+{
+    "version": "0.0.3",
+    "architecture": {
+        "32bit": {
+            "url": "http://github.com/thomaspoignant/yamllint-checkstyle/releases/download/v0.0.3/yamllint-checkstyle_0.0.3_Windows_i386.tar.gz",
+            "bin": [
+                "yamllint-checkstyle.exe"
+            ],
+            "hash": "1860f884a01527b7db8dba2cc814d01b071552d717fe73deff0cfce39e3ba9d8"
+        },
+        "64bit": {
+            "url": "http://github.com/thomaspoignant/yamllint-checkstyle/releases/download/v0.0.3/yamllint-checkstyle_0.0.3_Windows_x86_64.tar.gz",
+            "bin": [
+                "yamllint-checkstyle.exe"
+            ],
+            "hash": "4e91f24c5087d61f5a3b49deb5666e09a2005871a3bc78b532337771c1be70b8"
+        }
+    },
+    "homepage": "https://github.com/thomaspoignant/yamllint-checkstyle#yamllint-checkstyle",
+    "license": "Unlicence",
+    "description": "Convert yamllint output to checkstyle format."
+}
