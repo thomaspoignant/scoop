@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "32bit": {
-            "url": "http://github.com/thomaspoignant/yamllint-checkstyle/releases/download/v1.0.0/yamllint-checkstyle_1.0.0_Windows_i386.tar.gz",
+            "url": "http://github.com/thomaspoignant/yamllint-checkstyle/releases/download/v1.0.1/yamllint-checkstyle_1.0.1_Windows_i386.tar.gz",
             "bin": [
                 "yamllint-checkstyle.exe"
             ],
-            "hash": "09f98427440c546a22ce4a88b48778e222d29de60f3f2a6ebc1d27c690393c8f"
+            "hash": "de7a1c90a01d919f249808080f2aa863136347577b6583f6674f11e77a0ae5b1"
         },
         "64bit": {
-            "url": "http://github.com/thomaspoignant/yamllint-checkstyle/releases/download/v1.0.0/yamllint-checkstyle_1.0.0_Windows_x86_64.tar.gz",
+            "url": "http://github.com/thomaspoignant/yamllint-checkstyle/releases/download/v1.0.1/yamllint-checkstyle_1.0.1_Windows_x86_64.tar.gz",
             "bin": [
                 "yamllint-checkstyle.exe"
             ],
-            "hash": "bffade21fe1c178edbf64ddb844d7628a77f2a459b49236cfc4609be33d2fdd9"
+            "hash": "f93891adbe8bfac0037c501f5b2c27b413bc5db2d8637dd0ab3faac459cde3f8"
         }
     },
     "homepage": "https://github.com/thomaspoignant/yamllint-checkstyle#yamllint-checkstyle",
