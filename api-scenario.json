@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "32bit": {
-            "url": "http://github.com/thomaspoignant/api-scenario/releases/download/v0.2.0/api-scenario_0.2.0_Windows_i386.tar.gz",
+            "url": "http://github.com/thomaspoignant/api-scenario/releases/download/v0.3.0/api-scenario_0.3.0_Windows_i386.tar.gz",
             "bin": [
                 "api-scenario.exe"
             ],
-            "hash": "41631f135b24aed2d1ba8c88e372467e0b60202b899f95c9a70de7bcd2cea797"
+            "hash": "9399a5e980537e8085af047e9a27343b5d570bbc5c5d101698d990312fad3ce0"
         },
         "64bit": {
-            "url": "http://github.com/thomaspoignant/api-scenario/releases/download/v0.2.0/api-scenario_0.2.0_Windows_x86_64.tar.gz",
+            "url": "http://github.com/thomaspoignant/api-scenario/releases/download/v0.3.0/api-scenario_0.3.0_Windows_x86_64.tar.gz",
             "bin": [
                 "api-scenario.exe"
             ],
-            "hash": "b35390864511964f60eccdf2587ed70f751dfa91364553fa398092e766d78a4a"
+            "hash": "a1dfd785e645dd1f1099aa6a621d963cd391a6d4e499aab44ea89dc5c0e45d99"
         }
     },
     "homepage": "https://github.com/thomaspoignant/api-scenario#api-scenario",
