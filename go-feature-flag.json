@@ -6,14 +6,14 @@
             "bin": [
                 "go-feature-flag-migration-cli.exe"
             ],
-            "hash": "4a0a6a16fe30fc5193d04dbd47bbfbf2125a2a69339edeb1b43028f319c60630"
+            "hash": "85a5d260b5f1dffb592c3f5e3630b58217d04125e4444e87ffd8c64bed5e8a8c"
         },
         "64bit": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.0.0-beta.3/go-feature-flag_1.0.0-beta.3_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag-migration-cli.exe"
             ],
-            "hash": "459ba852eff7daa4583bd0a5f2ad578fc3a40a4bf45eb34207e4f104714a5e5e"
+            "hash": "f2dfc138236d4a6beda110342749864ca701c2728fc435c82806f59f6b4c3891"
         }
     },
     "homepage": "https://gofeatureflag.org",
