@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0-beta.3",
+    "version": "1.0.0-rc.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.0.0-beta.3/go-feature-flag-relay-proxy_1.0.0-beta.3_Windows_i386.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.0.0-rc.1/go-feature-flag-relay-proxy_1.0.0-rc.1_Windows_i386.tar.gz",
             "bin": [
                 "go-feature-flag-relay-proxy.exe"
             ],
-            "hash": "d6e79f70a787f80ef54fa1760cabb7673abe2dc6af567ab26beb7594e68d2318"
+            "hash": "f76d086222bfdb6943e7bd5bfe2c6dadbcb7a05598dae9adb9c9228d3fe0259f"
         },
         "64bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.0.0-beta.3/go-feature-flag-relay-proxy_1.0.0-beta.3_Windows_x86_64.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.0.0-rc.1/go-feature-flag-relay-proxy_1.0.0-rc.1_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag-relay-proxy.exe"
             ],
-            "hash": "dacf5959bf8e7a571e3a137c7951638d610a7c0ee7f0731af3fe62b09802726b"
+            "hash": "8c85332a49a83c7556bc53901f4165e1a5c2471d6d162c560a4e1f709d51b2c3"
         }
     },
     "homepage": "https://gofeatureflag.org",
