@@ -6,14 +6,14 @@
             "bin": [
                 "go-feature-flag-lint.exe"
             ],
-            "hash": "0ef820b6a91f9c6fb7de2bffaf95764126ae942509db00d4966d975f91667ebf"
+            "hash": "1c5ae822c2ae95b40aaaec2f24ac8ae0858e45b4113667d365e825222a714a8c"
         },
         "64bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.8.1/go-feature-flag-relay-proxy_1.8.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.8.1/go-feature-flag-lint_1.8.1_Windows_x86_64.tar.gz",
             "bin": [
-                "go-feature-flag-relay-proxy.exe"
+                "go-feature-flag-lint.exe"
             ],
-            "hash": "154a54df65fcb31af83ca74307570786b35d49107eae0e9ea51ebb2579a5cf37"
+            "hash": "c3c2bf2f77c2d0f509e4cd686918f25935cca8d79dfc193fb3ce3a0bd54bdd0b"
         }
     },
     "homepage": "https://gofeatureflag.org",
