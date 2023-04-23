@@ -1,19 +1,19 @@
 {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.8.1/go-feature-flag-lint_1.8.1_Windows_i386.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.8.2/go-feature-flag-lint_1.8.2_Windows_i386.tar.gz",
             "bin": [
                 "go-feature-flag-lint.exe"
             ],
-            "hash": "1c5ae822c2ae95b40aaaec2f24ac8ae0858e45b4113667d365e825222a714a8c"
+            "hash": "0c1e21a4a94f88e68e4941b01aaaa789a4ad7cfd8c88922a82fa8fb09e3ed72c"
         },
         "64bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.8.1/go-feature-flag-lint_1.8.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.8.2/go-feature-flag-lint_1.8.2_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag-lint.exe"
             ],
-            "hash": "c3c2bf2f77c2d0f509e4cd686918f25935cca8d79dfc193fb3ce3a0bd54bdd0b"
+            "hash": "48c303cc0302e3e6a69374c034c5c471b14a664d8d8ef12d577b9bb2b830e016"
         }
     },
     "homepage": "https://gofeatureflag.org",
